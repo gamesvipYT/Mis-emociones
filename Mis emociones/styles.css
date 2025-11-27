@@ -1,0 +1,30 @@
+* {
+    margin: 5px;
+    padding: 1px;
+    box-sizing: border-box;
+    color: rgb(31, 28, 28);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.inicio {
+    background-color: rgb(92, 159, 182);
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+section p {
+    font-size: larger;
+    text-align: center;
+}
+.emociones {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    background-color: rgb(99, 83, 189);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
